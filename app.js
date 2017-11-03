@@ -8,7 +8,7 @@ const mongoose = require('mongoose');
 const config = require('./config/database');
 
 // Configure mongodb
-mongoose.connect(config.database);
+mongoose.connect(config.database, { useMongoClient: true });
 
 // Connect to DB
 mongoose.connection.on('connected', () => {
@@ -35,6 +35,12 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // Setup  Body Parser
 app.use(bodyParser.json());
+
+// Passport
+app.use(passport.initialize());
+app.use(passport.session());
+
+require('./config/passport')(passport);
 
 app.use('/users', users);
 
