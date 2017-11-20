@@ -11,10 +11,10 @@ Based on a tutorial by Traversy Media.
 ## Installation
  1. Install Node.js from [nodejs.org](https://www.nodejs.org/).
  
- 2. Open terminal/cmd and enter ´cd PATH_TO_FOLDER/MEANLogin´.
+ 2. Open terminal/cmd and enter ´ cd PATH_TO_FOLDER/MEANLogin ´.
  
- 3. Enter ´´´sh npm install´´´.
+ 3. Enter ´ npm install ´.
  
- 4. Enter ´cd angular-src´.
+ 4. Enter ´ cd angular-src ´.
  
- 5. Enter ´npm install´ again.
+ 5. Enter ´ npm install ´ again.
