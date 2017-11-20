@@ -18,3 +18,14 @@ Based on a tutorial by Traversy Media.
  4. Enter `cd angular-src`.
  
  5. Enter `npm install` again.
+
+## Usage
+1. Open terminal/cmd and enter `cd PATH_TO_FOLDER/MEANLogin/angular-src`.
+
+2. Enter `ng serve` (providing you have installed the angular-cli on your machine [download & install angular-cli](https://cli.angular.io)).
+
+3. Open any browser and enter the adress `localhost:4200`.
+
+4. You should now be able to register and then login
+
+5. After usage, open the terminal window in which you type `ng serve` and press <kbd>CTRL</kbd>+<kbd>C</kbd>.
