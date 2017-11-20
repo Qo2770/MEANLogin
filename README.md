@@ -28,4 +28,4 @@ Based on a tutorial by Traversy Media.
 
 4. You should now be able to register and then login
 
-5. After usage, open the terminal window in which you type `ng serve` and press <kbd>CTRL</kbd>+<kbd>C</kbd>.
+5. After usage, open the terminal window in which you previously entered `ng serve` (it should still be running) and press <kbd>CTRL</kbd>+<kbd>C</kbd>.
