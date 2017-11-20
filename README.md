@@ -1,7 +1,7 @@
 # MEANLogin
 Author: Quentin Oschatz  
 Version: 1.0  
-License: MIT  
+License: [MIT](https://opensource.org/licenses/MIT)  
 
 ## Description
 
