@@ -3,6 +3,7 @@ Author: Quentin Oschatz
 Version: 1.0
 
 #Description
+
 A simple login application developed in the MEAN Stack and bootstrap. 
 
 Based on a tutorial by Traversy Media.
