@@ -9,7 +9,7 @@ A simple login application developed in the MEAN Stack and bootstrap.
 Based on a tutorial by Traversy Media.
 
 ## Installation
- 1. Install Node.js from ![www.nodejs.org](https://nodejs.org/).
+ 1. Install Node.js from [nodejs.org](https://www.nodejs.org/).
  
  2. Open terminal/cmd and enter ´cd PATH_TO_FOLDER/MEANLogin´.
  
