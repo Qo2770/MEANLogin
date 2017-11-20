@@ -13,7 +13,7 @@ Based on a tutorial by Traversy Media.
  
  2. Open terminal/cmd and enter ´cd PATH_TO_FOLDER/MEANLogin´.
  
- 3. Enter ´npm install´.
+ 3. Enter ´´´sh npm install´´´.
  
  4. Enter ´cd angular-src´.
  
