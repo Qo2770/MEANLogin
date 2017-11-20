@@ -1,13 +1,7 @@
 # MEANLogin
-<<<<<<< HEAD
  Author: Quentin Oschatz
  Version: 1.0
  License: MIT
-=======
-Author: Quentin Oschatz
-Version: 1.0
-License: MIT 
->>>>>>> 61675765493f28ff0d0c04a81ff43c42a1bb3325
 
 ## Description
 
